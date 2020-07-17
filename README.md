@@ -1,4 +1,4 @@
-![Alt text]("coemapper.png")
+![Alt text]("https://github.com/lllllll-llll-llllll/coe_mapper/blob/master/coemapper.png")
 
 simple autoit script to scrape x/y slices of the chronicles of elyria map.  
   

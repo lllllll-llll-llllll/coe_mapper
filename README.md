@@ -1,3 +1,5 @@
+![Alt text]("coemapper.png")
+
 simple autoit script to scrape x/y slices of the chronicles of elyria map.  
   
 the resulting images are saved in a [scriptdir/x/y/images.png] folder structure.  
